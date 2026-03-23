@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on diffrent projects
 - 📫 How to reach me dhyabenabdsslem@gmail.com
-- ⚡ Fun fact: I am 21 and I am super lost in life :D
 
 <!---
 dhiaeddine-vs/dhiaeddine-vs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
